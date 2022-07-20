@@ -1,0 +1,10 @@
+refinebio_accession_code,experiment_accession,refinebio_age,refinebio_cell_line,refinebio_compound,refinebio_disease,refinebio_disease_stage,refinebio_genetic_information,refinebio_organism,refinebio_platform,refinebio_processed,refinebio_processor_id,refinebio_processor_name,refinebio_processor_version,refinebio_race,refinebio_sex,refinebio_source_archive_url,refinebio_source_database,refinebio_specimen_part,refinebio_subject,refinebio_time,refinebio_title,refinebio_treatment,Code
+SRR10398412,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-0h rep1,Control,0
+SRR10398413,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-0h rep2,Control,0
+SRR10398414,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-0h rep3,Control,0
+SRR10398415,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-2.5h rep1,2.5 hours,1
+SRR10398416,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-2.5h rep2,2.5 hours,1
+SRR10398417,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-2.5h rep3,2.5 hours,1
+SRR10398418,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-5h rep1,5 hours,2
+SRR10398419,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-5h rep2,5 hours,2
+SRR10398420,SRP228531,,ag1,,,,,PSEUDOMONAS_AERUGINOSA,Illumina HiSeq 2500 (IlluminaHiSeq2500),TRUE,546,Tximport,v1.33.6,,,,SRA,,clinical isolate,,CIP-5h rep3,5 hours,2
